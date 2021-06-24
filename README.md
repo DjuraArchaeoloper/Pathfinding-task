@@ -1,4 +1,4 @@
-# fatcat-Pathfinding-task
+# Pathfinding-task
 
 This is my solution to the pathfinding task. 
 You can change the grid size in gridMatrix at the bottom, which is currently set to be 10 * 10, and also the number of obstacles which is set to be 20.
